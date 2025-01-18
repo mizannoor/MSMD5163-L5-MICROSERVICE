@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "local_dev_db2022",
+    "database": "order_db",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "local_dev_db2022",
+    "database": "order_db",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "local_dev_db2022",
+    "database": "order_db",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
